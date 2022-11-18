@@ -29,7 +29,7 @@
   <i>Prowler</i> is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 240 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.
 </p>
 
-## Table of Contents
+## Table of  Contents
 
 - [Description](#description)
 - [Features](#features)
